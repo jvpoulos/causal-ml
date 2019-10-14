@@ -201,6 +201,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar.
 
+1. **Deep Counterfactual Networks with Propensity-Dropout**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1706.05966)
+    
+    Ahmed M. Alaa, Michael Weisz, Mihaela van der Schaar.
+
 ## [Counterfactual learning / causal discovery](#content)  
 
 1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
