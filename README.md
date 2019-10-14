@@ -1,4 +1,4 @@
-# Must-read papers and resources on {Causal Inference}∩{ML}
+# Must-read papers and resources on {Causal}∩{ML}
 
 Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNPapers).
 
@@ -47,7 +47,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
 
-## [Representation learning / domain adaptation / non-random missing data](#content)   
+## [Representation learning / domain adaptation](#content)   
 
 1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) 
     
@@ -126,6 +126,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/pdf/1805.06826.pdf)
     
     Yixin Wang, David M. Blei.
+
+1. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
+    
+    Finnian Lattimore, Tor Lattimore, Mark D. Reid.
 
 ## [Applications](#content)
 
