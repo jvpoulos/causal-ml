@@ -12,7 +12,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
-<tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning</a></td></tr>
+<tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
     <td>&emsp;<a href="social-sciences">9.1. Social Sciences</a></td>
@@ -39,10 +39,6 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ## [Counterfactual prediction](#content)  
 
-1. **Robust Synthetic Control**, *JMLR*, 2019. [paper](http://www.jmlr.org/papers/volume19/17-777.pdf)
-    
-    Muhammad Amjad, Devavrat Shah, Dennis Shen.
-
 1. **Deep IV: A Flexible Approach for Counterfactual Prediction**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
@@ -53,7 +49,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 1. **Causal Effect Inference with Deep Latent-Variable Models**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1705.08821)
     
-    Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling
+    Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling.
 
 1. **GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets**, *ICLR*, 2018. [paper](https://openreview.net/pdf?id=ByKWUeWA-)
     
@@ -95,6 +91,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Adam Bloniarz, Hanzhong Liu, Cun-Hui Zhang, Jasjeet S. Sekhon, Bin Yu.
 
+1. **Robust Synthetic Control**, *JMLR*, 2019. [paper](http://www.jmlr.org/papers/volume19/17-777.pdf)
+    
+    Muhammad Amjad, Devavrat Shah, Dennis Shen.
+
+1. **ArCo: An artificial counterfactual approach for high-dimensional panel time-series data**, *Journal of Econometrics*, 2018. [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2823687)
+    
+    Carlos Carvalho, Ricardo Masini, Marcelo C. Medeiros.
+
 ## [Heterogeneous treatment effects](#content)  
 
 1. **Estimating treatment effect heterogeneity in randomized program evaluation**, *Annals of Applied Statistics*, 2013. [paper](https://projecteuclid.org/euclid.aoas/1365527206)
@@ -134,6 +138,34 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **GAIN: Missing Data Imputation using Generative Adversarial Nets**, *ICML*, 2018. [paper](http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf) [code](https://github.com/jsyoon0823/GAIN)
 
     Jinsung Yoon, James Jordon, Mihaela van der Schaar.
+
+1. **Estimating Missing Data in Temporal Data Streams Using Multi-directional Recurrent Neural Networks**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1711.08742) [code](https://github.com/jsyoon0823/MRNN)
+
+    Jinsung Yoon, William R. Zame, Mihaela van der Schaar.
+
+1. **MIDA: Multiple Imputation using Denoising Autoencoders**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1705.02737) [code](https://github.com/lgondara/loss-to-followup-DAE)
+
+    Lovedeep Gondara, Ke Wang.
+
+1. **Recurrent Neural Networks for Multivariate Time Series with Missing Values**, *Scientific Reports*, 2018. [paper](https://www.nature.com/articles/s41598-018-24271-9) [code](https://github.com/zhiyongc/GRU-D)
+
+    Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu.
+
+1. **BRITS: Bidirectional Recurrent Imputation for Time Series**, *NeurIPS*, 2018. [paper](https://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf) 
+
+    Wei Cao et al.
+
+1. **Modeling Missing Data in Clinical Time Series with RNNs**, *JMLR*, 2016. [paper](http://proceedings.mlr.press/v56/Lipton16.pdf) 
+
+    Zachary C. Lipton, David C. Kale, Randall Wetzel.
+
+1. **NAOMI: Non-Autoregressive Multiresolution Sequence Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10946) 
+
+    Yukai Liu, Rose Yu, Stephan Zheng, Eric Zhan, Yisong Yue.
+
+1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks**, *NeurIPS*, 2017. [paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf) [code](https://github.com/dtsbourg/magnesium)
+
+    Federico Monti, Michael M. Bronstein, Xavier Bresson.
 
 ## [Semiparametric inference](#content)  
 
