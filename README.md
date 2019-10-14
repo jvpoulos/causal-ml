@@ -15,7 +15,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">9.1. Social Sciences</a></td>
+    <td>&emsp;<a href="social-sciences">9.1. Social Sciences / program evaluation</a></td>
     <td>&ensp;<a href="#text">9.2. Text</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
@@ -133,6 +133,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
     Sören R. Künzel, Bradly C. Stadie, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon, Pieter Abbeel.
 
+1. **Generalized Random Forests**, *Annals of Statistics*, 2019. [paper](https://arxiv.org/abs/1610.01271)
+
+    Susan Athey, Julie Tibshirani, Stefan Wager.
+
+1. **Machine Learning Methods for Estimating Heterogeneous Causal Effects**, *ArXiv*, 2015. [paper](https://arxiv.org/abs/1504.01132v1)
+
+    Susan Athey, Guido W. Imbens.
+
 ## [Missing data imputation](#content)  
 
 1. **GAIN: Missing Data Imputation using Generative Adversarial Nets**, *ICML*, 2018. [paper](http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf) [code](https://github.com/jsyoon0823/GAIN)
@@ -177,6 +185,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
+1. **Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions**, *JRSS-B*, 2018. [paper](https://arxiv.org/abs/1604.07125)
+    
+    Susan Athey, Guido W. Imbens, Stefan Wager.
+
+1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
+    
+    Jelena Bradic, Stefan Wager, Yinchu Zhu.
+
 ## [Counterfactual learning / causal discovery](#content)  
 
 1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
@@ -191,13 +207,26 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Finnian Lattimore, Tor Lattimore, Mark D. Reid.
 
-1. **Counterfactual Risk Minimization: Learning from Logged Bandit Feedback**, *arXiv*, 2015. [paper](https://arxiv.org/pdf/1502.02362.pdf)
+1. **Counterfactual Risk Minimization: Learning from Logged Bandit Feedback**, *arXiv*, 2015. [paper](https://arxiv.org/abs/1502.02362)
     
     Adith Swaminathan, Thorsten Joachims.
 
+1. **Learning When-to-Treat Policies**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.09751)
+    
+    Xinkun Nie, Emma Brunskill, Stefan Wager.
+
 ## [Applications](#content)
 
-### [Social sciences](#content)
+### [Social sciences / program evaluation](#content)
+
+1. **Estimating Treatment Effects with Causal Forests: An Application**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.07409)
+    
+    Susan Athey, Stefan Wager.
+
+1. **Ensemble Methods for Causal Effects in Panel Data Settings**, *AER P&P*, 2019. [paper](https://arxiv.org/abs/1903.10079)
+    
+    Susan Athey, Mohsen Bayati, Guido W. Imbens, Zhaonan Qu.
+
 1. **Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia**, *Political Analysis*, 2016. [paper](https://arxiv.org/abs/1607.03026)
     
     Cyrus Samii, Laura Paler, Sarah Zukerman Daly.
@@ -232,7 +261,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 1. **Causality workbench** [link](http://www.causality.inf.ethz.ch/repository.php?page=data)
 
-1. **Causal Inference** [link](https://paperswithcode.com/task/causal-inference)
+1. **Papers with code** [link](https://paperswithcode.com/task/causal-inference)
 
 ### [Courses](#content)
 
