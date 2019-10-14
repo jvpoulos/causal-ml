@@ -51,15 +51,15 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) 
     
-    Jason Hartford, Greg Lewis, Kevin Leyton-Brown, Matt Taddy.
+    Fredrik D. Johansson, Uri Shalit, David Sontag.
 
 1. **Representation Learning for Treatment Effect Estimation from Observational Data**, *NeurIPS*, 2019. [paper](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) 
     
-    Jason Hartford, Greg Lewis, Kevin Leyton-Brown, Matt Taddy.
+    Yao et al.
 
 1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/jhartford/DeepIV)
     
-    Jason Hartford, Greg Lewis, Kevin Leyton-Brown, Matt Taddy.
+    Uri Shalit, Fredrik D. Johansson, David Sontag.
 
 1. **Recommendations as Treatments: Debiasing Learning and Evaluation**, *PMLR*, 2016. [paper](http://proceedings.mlr.press/v48/schnabel16.html)
     
