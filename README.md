@@ -1,4 +1,4 @@
-# Must-read papers and resources on {Causal}∩{ML}
+# Must-read papers and resources on {Causal Inference}∩{ML}
 
 Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNPapers).
 
@@ -12,7 +12,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#causal-discovery">6. Causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
-<tr><td colspan="2"><a href="#missing-data">8. Dynamic treatment regimes</a></td></tr>
+<tr><td colspan="2"><a href="#probabilistic models">8. Probabilistic models</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#economics">9.1. Economics</a></td>
@@ -24,7 +24,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     <td>&emsp;<a href="#proceedings">10.2. Proceedings</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#code-libraries">10.3 Code libraries</a></td>
+    <td>&ensp;<a href="#code-libraries">10.3. Code libraries</a></td>
     <td>&emsp;<a href="#benchmark-datasets">10.4. Benchmark datasets</a></td>
 </tr> 
 <tr>
@@ -121,7 +121,11 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
-## [Dynamic treatment regimes](#content)  
+## [Probabilistic models](#content)  
+
+1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/pdf/1805.06826.pdf)
+    
+    Yixin Wang, David M. Blei.
 
 ## [Applications](#content)
 
