@@ -11,7 +11,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <tr><td colspan="2"><a href="#text">4. Covariate adjustment / dimensionality reduction</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
-<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
+<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference / doubly robust</a></td></tr>
 <tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
@@ -65,7 +65,11 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ## [Representation learning / domain adaptation](#content)   
 
-1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) 
+1. **Invariant Models for Causal Transfer Learning**, *JMLR*, 2018. [paper](http://jmlr.org/papers/v19/16-432.html) 
+    
+    Mateo Rojas-Carulla, Bernhard Schölkopf, Richard Turner, Jonas Peters.
+
+1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) [code](https://github.com/clinicalml/cfrnet)
     
     Fredrik D. Johansson, Uri Shalit, David Sontag.
 
@@ -73,7 +77,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Yao et al.
 
-1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html)
+1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/clinicalml/cfrnet)
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
 
@@ -175,7 +179,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
     Federico Monti, Michael M. Bronstein, Xavier Bresson.
 
-## [Semiparametric inference](#content)  
+## [Semiparametric inference/ doubly Robust](#content)  
 
 1. **Double/Debiased Machine Learning for Treatment and Causal Parameters**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1608.00060)
     
@@ -192,6 +196,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
     
     Jelena Bradic, Stefan Wager, Yinchu Zhu.
+
+1. **Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.00450)
+    
+    Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar.
 
 ## [Counterfactual learning / causal discovery](#content)  
 
@@ -218,6 +226,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 ## [Applications](#content)
 
 ### [Social sciences / program evaluation](#content)
+
+1. **Machine Learning Analysis of Heterogeneity in the Effect of Student Mindset Interventions**, *Observational Studies*, 2019. [paper](https://arxiv.org/abs/1811.05975)
+    
+    Fredrik D. Johansson.
 
 1. **Estimating Treatment Effects with Causal Forests: An Application**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.07409)
     
@@ -259,9 +271,11 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ### [Benchmark datasets](#content)
 
-1. **Causality workbench** [link](http://www.causality.inf.ethz.ch/repository.php?page=data)
+1. **IHDP, Jobs, and News benchmarks** [link](https://fredjo.com/)
 
-1. **Papers with code** [link](https://paperswithcode.com/task/causal-inference)
+1. **Twins** [link](http://www.nber.org/data/linked-birth-infant-death-data-vitalstatistics-data.htm)
+
+1. **Causality workbench** [link](http://www.causality.inf.ethz.ch/repository.php?page=data)
 
 ### [Courses](#content)
 
