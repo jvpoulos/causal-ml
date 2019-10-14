@@ -10,7 +10,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <tr><td colspan="2"><a href="#representation-learning">3. Representation learning / domain adaptation</a></td></tr>
 <tr><td colspan="2"><a href="#text">4. Covariate adjustment / dimensionality reduction</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
-<tr><td colspan="2"><a href="#causal-discovery">6. Causal discovery</a></td></tr>
+<tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
 <tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
@@ -129,11 +129,11 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
     Sören R. Künzel, Bradly C. Stadie, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon, Pieter Abbeel.
 
-## [Causal discovery](#content)  
+## [Missing data imputation](#content)  
 
-1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
-    
-    Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
+1. **GAIN: Missing Data Imputation using Generative Adversarial Nets**, *ICML*, 2018. [paper](http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf) [code](https://github.com/jsyoon0823/GAIN)
+
+    Jinsung Yoon, James Jordon, Mihaela van der Schaar.
 
 ## [Semiparametric inference](#content)  
 
@@ -145,7 +145,11 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
-## [Counterfactual learning](#content)  
+## [Counterfactual learning / causal discovery](#content)  
+
+1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
+    
+    Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
 
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
@@ -164,13 +168,13 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 ### [Social sciences](#content)
 1. **Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia**, *Political Analysis*, 2016. [paper](https://arxiv.org/abs/1607.03026)
     
-    Cyrus Samii, Laura Paler, Sarah Zukerman Daly 
+    Cyrus Samii, Laura Paler, Sarah Zukerman Daly.
 
 ### [Text](#content)
 
 1. **Counterfactual Story Reasoning and Generation**, *arXIv*, 2019. [paper](https://arxiv.org/abs/1909.04076)
     
-    Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi
+    Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi.
 
 ## [Resources](#content)
 
