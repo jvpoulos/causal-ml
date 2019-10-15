@@ -39,6 +39,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ## [Counterfactual prediction](#content)  
 
+1. **Adapting Neural Networks for the Estimation of Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1906.02120) [code](http://github.com/claudiashi57/dragonnet)
+    
+    Claudia Shi, David M. Blei, Victor Veitch.
+
+1. **Deep Neural Networks for Estimation and Inference**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1809.09953)
+    
+    Max H. Farrell, Tengyuan Liang, Sanjog Misra.
+
 1. **Deep IV: A Flexible Approach for Counterfactual Prediction**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
@@ -75,7 +83,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 1. **Representation Learning for Treatment Effect Estimation from Observational Data**, *NeurIPS*, 2019. [paper](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) 
     
-    Yao et al.
+    Liuyi Yao et al.
 
 1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/clinicalml/cfrnet)
     
@@ -104,10 +112,6 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     Carlos Carvalho, Ricardo Masini, Marcelo C. Medeiros.
 
 ## [Heterogeneous treatment effects](#content)  
-
-1. **Estimating treatment effect heterogeneity in randomized program evaluation**, *Annals of Applied Statistics*, 2013. [paper](https://projecteuclid.org/euclid.aoas/1365527206)
-    
-    Kosuke Imai, Marc Ratkovic.
 
 1. **Recursive partitioning for heterogeneous causal effects**, *PNAS*, 2016. [paper](https://www.pnas.org/content/113/27/7353)
     
@@ -246,6 +250,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia**, *Political Analysis*, 2016. [paper](https://arxiv.org/abs/1607.03026)
     
     Cyrus Samii, Laura Paler, Sarah Zukerman Daly.
+
+1. **Estimating treatment effect heterogeneity in randomized program evaluation**, *Annals of Applied Statistics*, 2013. [paper](https://projecteuclid.org/euclid.aoas/1365527206)
+    
+    Kosuke Imai, Marc Ratkovic.
 
 ### [Text](#content)
 
