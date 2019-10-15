@@ -183,7 +183,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Zachary C. Lipton, David C. Kale, Randall Wetzel.
 
-## [Semiparametric inference/ doubly Robust](#content)  
+## [Semiparametric inference](#content)  
 
 1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
     
@@ -211,14 +211,14 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Causal learning](#content)  
 
-1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164)
+1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
     
     Greg Lewis, Vasilis Syrgkanis.
 
 1. **CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1709.02023)
     
     Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath.
-    
+
 1. **Learning When-to-Treat Policies**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.09751)
     
     Xinkun Nie, Emma Brunskill, Stefan Wager.
