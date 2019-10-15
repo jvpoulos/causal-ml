@@ -7,15 +7,15 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Surveys</a></td></tr> 
 <tr><td colspan="2"><a href="#counterfactual-prediction">2. Counterfactual prediction</a></td></tr>
-<tr><td colspan="2"><a href="#representation-learning">3. Representation learning / domain adaptation</a></td></tr>
-<tr><td colspan="2"><a href="#text">4. Covariate adjustment / dimensionality reduction</a></td></tr>
+<tr><td colspan="2"><a href="#representation-learning">3. Representation learning</a></td></tr>
+<tr><td colspan="2"><a href="#dimensionality-reduction">4. Dimensionality reduction</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
-<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference / doubly robust</a></td></tr>
-<tr><td colspan="2"><a href="#counterfactual-learning">8. Counterfactual learning / causal discovery</a></td></tr>
+<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
+<tr><td colspan="2"><a href="#causal-learning">8. Causal learning</a></td></tr>
 <tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">9.1. Social Sciences / program evaluation</a></td>
+    <td>&emsp;<a href="social-sciences">9.1. Social Sciences</a></td>
     <td>&ensp;<a href="#text">9.2. Text</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
@@ -47,17 +47,9 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Max H. Farrell, Tengyuan Liang, Sanjog Misra.
 
-1. **Deep IV: A Flexible Approach for Counterfactual Prediction**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
-    
-    Uri Shalit, Fredrik D. Johansson, David Sontag.
-
 1. **Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks**, *NIPS*, 2018. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
     
     Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
-
-1. **Causal Effect Inference with Deep Latent-Variable Models**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1705.08821)
-    
-    Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling.
 
 1. **GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets**, *ICLR*, 2018. [paper](https://openreview.net/pdf?id=ByKWUeWA-)
     
@@ -71,7 +63,19 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Changhee Lee, Nicholas Mastronarde, Mihaela van der Schaar.
 
-## [Representation learning / domain adaptation](#content)   
+1. **Deep IV: A Flexible Approach for Counterfactual Prediction**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
+    
+    Uri Shalit, Fredrik D. Johansson, David Sontag.
+
+1. **Causal Effect Inference with Deep Latent-Variable Models**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1705.08821)
+    
+    Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling.
+
+## [Representation learning](#content)   
+
+1. **Representation Learning for Treatment Effect Estimation from Observational Data**, *NeurIPS*, 2019. [paper](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) 
+    
+    Liuyi Yao et al.
 
 1. **Invariant Models for Causal Transfer Learning**, *JMLR*, 2018. [paper](http://jmlr.org/papers/v19/16-432.html) 
     
@@ -80,10 +84,6 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) [code](https://github.com/clinicalml/cfrnet)
     
     Fredrik D. Johansson, Uri Shalit, David Sontag.
-
-1. **Representation Learning for Treatment Effect Estimation from Observational Data**, *NeurIPS*, 2019. [paper](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) 
-    
-    Liuyi Yao et al.
 
 1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/clinicalml/cfrnet)
     
@@ -97,11 +97,7 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Benjamin M. Marlin, Richard S. Zemel.
 
-## [Covariate adjustment / dimensionality reduction](#content)  
-
-1. **Lasso adjustments of treatment effect estimates in randomized experiments**, *PNAS*, 2016. [paper](https://www.pnas.org/content/113/27/7383.short)
-    
-    Adam Bloniarz, Hanzhong Liu, Cun-Hui Zhang, Jasjeet S. Sekhon, Bin Yu.
+## [Dimensionality reduction](#content)  
 
 1. **Robust Synthetic Control**, *JMLR*, 2019. [paper](http://www.jmlr.org/papers/volume19/17-777.pdf)
     
@@ -111,19 +107,15 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Carlos Carvalho, Ricardo Masini, Marcelo C. Medeiros.
 
+1. **Lasso adjustments of treatment effect estimates in randomized experiments**, *PNAS*, 2016. [paper](https://www.pnas.org/content/113/27/7383.short)
+    
+    Adam Bloniarz, Hanzhong Liu, Cun-Hui Zhang, Jasjeet S. Sekhon, Bin Yu.
+
 ## [Heterogeneous treatment effects](#content)  
 
-1. **Recursive partitioning for heterogeneous causal effects**, *PNAS*, 2016. [paper](https://www.pnas.org/content/113/27/7353)
-    
-    Susan Athey, Guido Imbens.
+1. **Generalized Random Forests**, *Annals of Statistics*, 2019. [paper](https://arxiv.org/abs/1610.01271)
 
-1. **Estimation and Inference of Heterogeneous Treatment Effects using Random Forests**, *JASA*, 2018. [paper](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1319839#.XaPLBeZKhhE)
-    
-    Stefan Wager, Susan Athey.
-
-1. **Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design**, *PMLR*, 2018. [paper](http://proceedings.mlr.press/v80/alaa18a.html)
-    
-    Ahmed Alaa, Mihaela Schaar.
+    Susan Athey, Julie Tibshirani, Stefan Wager.
 
 1. **Machine Learning Estimation of Heterogeneous Treatment Effects with Instruments**, *NeurIPS*, 2019. [paper](https://arxiv.org/abs/1905.10176)
     
@@ -137,13 +129,21 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
     Miruna Oprescu, Vasilis Syrgkanis, Zhiwei Steven Wu.
 
+1. **Estimation and Inference of Heterogeneous Treatment Effects using Random Forests**, *JASA*, 2018. [paper](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1319839#.XaPLBeZKhhE)
+    
+    Stefan Wager, Susan Athey.
+
+1. **Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design**, *PMLR*, 2018. [paper](http://proceedings.mlr.press/v80/alaa18a.html)
+    
+    Ahmed Alaa, Mihaela Schaar.
+
 1. **Transfer Learning for Estimating Causal Effects using Neural Networks**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1808.07804)
 
     Sören R. Künzel, Bradly C. Stadie, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon, Pieter Abbeel.
 
-1. **Generalized Random Forests**, *Annals of Statistics*, 2019. [paper](https://arxiv.org/abs/1610.01271)
-
-    Susan Athey, Julie Tibshirani, Stefan Wager.
+1. **Recursive partitioning for heterogeneous causal effects**, *PNAS*, 2016. [paper](https://www.pnas.org/content/113/27/7353)
+    
+    Susan Athey, Guido Imbens.
 
 1. **Machine Learning Methods for Estimating Heterogeneous Causal Effects**, *ArXiv*, 2015. [paper](https://arxiv.org/abs/1504.01132v1)
 
@@ -151,13 +151,13 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ## [Missing data imputation](#content)  
 
+1. **NAOMI: Non-Autoregressive Multiresolution Sequence Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10946) 
+
+    Yukai Liu, Rose Yu, Stephan Zheng, Eric Zhan, Yisong Yue.
+
 1. **GAIN: Missing Data Imputation using Generative Adversarial Nets**, *ICML*, 2018. [paper](http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf) [code](https://github.com/jsyoon0823/GAIN)
 
     Jinsung Yoon, James Jordon, Mihaela van der Schaar.
-
-1. **Estimating Missing Data in Temporal Data Streams Using Multi-directional Recurrent Neural Networks**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1711.08742) [code](https://github.com/jsyoon0823/MRNN)
-
-    Jinsung Yoon, William R. Zame, Mihaela van der Schaar.
 
 1. **MIDA: Multiple Imputation using Denoising Autoencoders**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1705.02737) [code](https://github.com/lgondara/loss-to-followup-DAE)
 
@@ -171,31 +171,19 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
     Wei Cao et al.
 
-1. **Modeling Missing Data in Clinical Time Series with RNNs**, *JMLR*, 2016. [paper](http://proceedings.mlr.press/v56/Lipton16.pdf) 
+1. **Estimating Missing Data in Temporal Data Streams Using Multi-directional Recurrent Neural Networks**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1711.08742) [code](https://github.com/jsyoon0823/MRNN)
 
-    Zachary C. Lipton, David C. Kale, Randall Wetzel.
-
-1. **NAOMI: Non-Autoregressive Multiresolution Sequence Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10946) 
-
-    Yukai Liu, Rose Yu, Stephan Zheng, Eric Zhan, Yisong Yue.
+    Jinsung Yoon, William R. Zame, Mihaela van der Schaar.
 
 1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks**, *NeurIPS*, 2017. [paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf) [code](https://github.com/dtsbourg/magnesium)
 
     Federico Monti, Michael M. Bronstein, Xavier Bresson.
 
+1. **Modeling Missing Data in Clinical Time Series with RNNs**, *JMLR*, 2016. [paper](http://proceedings.mlr.press/v56/Lipton16.pdf) 
+
+    Zachary C. Lipton, David C. Kale, Randall Wetzel.
+
 ## [Semiparametric inference/ doubly Robust](#content)  
-
-1. **Double/Debiased Machine Learning for Treatment and Causal Parameters**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1608.00060)
-    
-    Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, James Robins.
-
-1. **Doubly Robust Policy Evaluation and Optimization**, *Statistical Science*, 2014. [paper](https://arxiv.org/abs/1503.02834)
-    
-    Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
-
-1. **Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions**, *JRSS-B*, 2018. [paper](https://arxiv.org/abs/1604.07125)
-    
-    Susan Athey, Guido W. Imbens, Stefan Wager.
 
 1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
     
@@ -205,11 +193,27 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar.
 
+1. **Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions**, *JRSS-B*, 2018. [paper](https://arxiv.org/abs/1604.07125)
+    
+    Susan Athey, Guido W. Imbens, Stefan Wager.
+
+1. **Double/Debiased Machine Learning for Treatment and Causal Parameters**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1608.00060)
+    
+    Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, James Robins.
+
 1. **Deep Counterfactual Networks with Propensity-Dropout**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1706.05966)
     
     Ahmed M. Alaa, Michael Weisz, Mihaela van der Schaar.
 
-## [Counterfactual learning / causal discovery](#content)  
+1. **Doubly Robust Policy Evaluation and Optimization**, *Statistical Science*, 2014. [paper](https://arxiv.org/abs/1503.02834)
+    
+    Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
+
+## [Causal learning](#content)  
+
+1. **Learning When-to-Treat Policies**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.09751)
+    
+    Xinkun Nie, Emma Brunskill, Stefan Wager.
 
 1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
     
@@ -227,13 +231,9 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
     
     Adith Swaminathan, Thorsten Joachims.
 
-1. **Learning When-to-Treat Policies**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.09751)
-    
-    Xinkun Nie, Emma Brunskill, Stefan Wager.
-
 ## [Applications](#content)
 
-### [Social sciences / program evaluation](#content)
+### [Social sciences](#content)
 
 1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
     
@@ -268,6 +268,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **Counterfactual Story Reasoning and Generation**, *arXIv*, 2019. [paper](https://arxiv.org/abs/1909.04076)
     
     Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi.
+
+1. **How to Make Causal Inferences Using Texts**, *arXIv*, 2018. [paper](https://arxiv.org/abs/1802.02163)
+
+    Naoki Egami, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, Brandon M. Stewart.
 
 ## [Resources](#content)
 
