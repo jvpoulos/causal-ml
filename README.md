@@ -235,6 +235,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ### [Social sciences / program evaluation](#content)
 
+1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
+    
+    Jason Poulos.
+
+1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
+    
+    Jason Poulos.
+
 1. **Machine Learning Analysis of Heterogeneity in the Effect of Student Mindset Interventions**, *Observational Studies*, 2019. [paper](https://arxiv.org/abs/1811.05975)
     
     Fredrik D. Johansson.
