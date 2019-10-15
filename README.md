@@ -1,6 +1,6 @@
 # Must-read papers and resources on {Causal}∩{ML}
 
-Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNPapers).
+Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNPapers).
 
 ## [Content](#content)
 
@@ -211,6 +211,14 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 
 ## [Causal learning](#content)  
 
+1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164)
+    
+    Greg Lewis, Vasilis Syrgkanis.
+
+1. **CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1709.02023)
+    
+    Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath.
+    
 1. **Learning When-to-Treat Policies**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.09751)
     
     Xinkun Nie, Emma Brunskill, Stefan Wager.
@@ -222,6 +230,10 @@ Contribtions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNP
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
     Yixin Wang, David M. Blei.
+
+1. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
+    
+    Elizabeth L. Ogburn, Ilya Shpitser, Eric J. Tchetgen Tchetgen.
 
 1. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
     
