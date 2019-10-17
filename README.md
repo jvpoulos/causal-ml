@@ -227,13 +227,23 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
 
+1. **On Multi-Cause Causal Inference with Unobserved Confounding: Counterexamples, Impossibility, and Alternatives**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.10286)
+
+    Alexander D'Amour
+
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
-    Yixin Wang, David M. Blei.
+    Yixin Wang, David M. Blei. <details><summary> comments </summary> 
 
 1. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
     
     Elizabeth L. Ogburn, Ilya Shpitser, Eric J. Tchetgen Tchetgen.
+
+1. **The Blessings of Multiple Causes: A Reply to Ogburn et al. (2019)**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07320)
+    
+    Yixin Wang, David M. Blei.
+
+</details>
 
 1. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
     
