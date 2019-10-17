@@ -233,9 +233,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
-    Yixin Wang, David M. Blei. <details><summary> comments </summary> 
+    Yixin Wang, David M. Blei. 
 
-1. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
+<details><summary> comments </summary> 
+
+7. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
     
     Elizabeth L. Ogburn, Ilya Shpitser, Eric J. Tchetgen Tchetgen.
 
