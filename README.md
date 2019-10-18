@@ -47,6 +47,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Max H. Farrell, Tengyuan Liang, Sanjog Misra.
 
+1. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
+    
+    Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, Khashayar Khosravi.
+
 1. **Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks**, *NIPS*, 2018. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
     
     Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
@@ -227,17 +231,21 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
 
-1. **On Multi-Cause Causal Inference with Unobserved Confounding: Counterexamples, Impossibility, and Alternatives**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.10286)
-
-    Alexander D'Amour
-
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
     Yixin Wang, David M. Blei. 
 
 <details><summary> comments </summary> 
 
-7. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
+7. **Comment: Reflections on the Deconfounder**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.08042)
+
+    Alexander D'Amour
+
+1. **On Multi-Cause Causal Inference with Unobserved Confounding: Counterexamples, Impossibility, and Alternatives**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.10286)
+
+    Alexander D'Amour
+
+1. **Comment on "Blessings of Multiple Causes"**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.05438)
     
     Elizabeth L. Ogburn, Ilya Shpitser, Eric J. Tchetgen Tchetgen.
 
@@ -247,7 +255,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 </details>
 
-1. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
+9. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
     
     Finnian Lattimore, Tor Lattimore, Mark D. Reid.
 
