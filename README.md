@@ -248,7 +248,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 <details><summary> comments </summary> 
 
-2. **Comment: Reflections on the Deconfounder**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.08042)
+3. **Comment: Reflections on the Deconfounder**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.08042)
 
     Alexander D'Amour
 
@@ -266,7 +266,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 </details>
 
-6. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
+7. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
     
     Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, Khashayar Khosravi.
 
