@@ -1,4 +1,4 @@
-# Must-read papers and resources on {Causal}∩{ML}
+# Must-read recent papers and resources on {Causal}∩{ML}
 
 Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNNPapers).
 
@@ -13,22 +13,23 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
 <tr><td colspan="2"><a href="#causal-learning">8. Causal learning</a></td></tr>
-<tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
+<tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">9.1. Social Sciences</a></td>
-    <td>&ensp;<a href="#text">9.2. Text</a></td>
+    <td>&emsp;<a href="social-sciences">10.1. Social Sciences</a></td>
+    <td>&ensp;<a href="#text">10.2. Text</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
+<tr><td colspan="2"><a href="#resources">11. Resources</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#workshops">10.1. Workshops</a></td>
-    <td>&emsp;<a href="#proceedings">10.2. Proceedings</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#code-libraries">10.3. Code libraries</a></td>
-    <td>&emsp;<a href="#benchmark-datasets">10.4. Benchmark datasets</a></td>
+    <td>&emsp;<a href="#workshops">11.1. Workshops</a></td>
+    <td>&emsp;<a href="#proceedings">11.2. Proceedings</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#courses">10.5. Courses</a></td>
+    <td>&ensp;<a href="#code-libraries">11.3. Code libraries</a></td>
+    <td>&emsp;<a href="#benchmark-datasets">11.4. Benchmark datasets</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#courses">11.5. Courses</a></td>
 </tr> 
 </table>
 
@@ -96,14 +97,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/clinicalml/cfrnet)
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
-
-1. **Recommendations as Treatments: Debiasing Learning and Evaluation**, *PMLR*, 2016. [paper](http://proceedings.mlr.press/v48/schnabel16.html)
-    
-    Tobias Schnabel, Adith Swaminathan, Ashudeep Singh, Navin Chandak, Thorsten Joachims.
-
-1. **Collaborative Prediction and Ranking with Non-Random Missing Data**, *RecSys*, 2009. [paper](http://www.cs.toronto.edu/~zemel/documents/acmrec2009-MarlinZemel.pdf)
-    
-    Benjamin M. Marlin, Richard S. Zemel.
 
 ## [Dimensionality reduction](#content)  
 
@@ -235,13 +228,27 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
 
+1. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
+    
+    Finnian Lattimore, Tor Lattimore, Mark D. Reid.
+
+1. **Counterfactual Risk Minimization: Learning from Logged Bandit Feedback**, *arXiv*, 2015. [paper](https://arxiv.org/abs/1502.02362)
+    
+    Adith Swaminathan, Thorsten Joachims.
+
+## [Causal recommendation](#content) 
+
+1. **The Deconfounded Recommender: A Causal Inference Approach to Recommendation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1808.06581)
+    
+    Yixin Wang, Dawen Liang, Laurent Charlin, David M. Blei. 
+
 1. **The Blessings of Multiple Causes**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1805.06826)
     
     Yixin Wang, David M. Blei. 
 
 <details><summary> comments </summary> 
 
-6. **Comment: Reflections on the Deconfounder**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.08042)
+2. **Comment: Reflections on the Deconfounder**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.08042)
 
     Alexander D'Amour
 
@@ -259,13 +266,17 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 </details>
 
-10. **Causal Bandits: Learning Good Interventions via Causal Inference**, *NIPS*, 2016. [paper](https://papers.nips.cc/paper/6195-causal-bandits-learning-good-interventions-via-causal-inference)
+6. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
     
-    Finnian Lattimore, Tor Lattimore, Mark D. Reid.
+    Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, Khashayar Khosravi.
 
-1. **Counterfactual Risk Minimization: Learning from Logged Bandit Feedback**, *arXiv*, 2015. [paper](https://arxiv.org/abs/1502.02362)
+1. **Recommendations as Treatments: Debiasing Learning and Evaluation**, *PMLR*, 2016. [paper](http://proceedings.mlr.press/v48/schnabel16.html)
     
-    Adith Swaminathan, Thorsten Joachims.
+    Tobias Schnabel, Adith Swaminathan, Ashudeep Singh, Navin Chandak, Thorsten Joachims.
+
+1. **Collaborative Prediction and Ranking with Non-Random Missing Data**, *RecSys*, 2009. [paper](http://www.cs.toronto.edu/~zemel/documents/acmrec2009-MarlinZemel.pdf)
+    
+    Benjamin M. Marlin, Richard S. Zemel.
 
 ## [Applications](#content)
 
@@ -290,14 +301,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Ensemble Methods for Causal Effects in Panel Data Settings**, *AER P&P*, 2019. [paper](https://arxiv.org/abs/1903.10079)
     
     Susan Athey, Mohsen Bayati, Guido W. Imbens, Zhaonan Qu.
-
-1. **Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia**, *Political Analysis*, 2016. [paper](https://arxiv.org/abs/1607.03026)
-    
-    Cyrus Samii, Laura Paler, Sarah Zukerman Daly.
-
-1. **Estimating treatment effect heterogeneity in randomized program evaluation**, *Annals of Applied Statistics*, 2013. [paper](https://projecteuclid.org/euclid.aoas/1365527206)
-    
-    Kosuke Imai, Marc Ratkovic.
 
 ### [Text](#content)
 
