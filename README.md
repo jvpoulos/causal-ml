@@ -30,6 +30,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 </tr> 
 <tr>
     <td>&emsp;<a href="#courses">11.5. Courses</a></td>
+    <td>&emsp;<a href="#industry">11.6. Industry</a></td>
 </tr> 
 </table>
 
@@ -51,6 +52,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Deep Neural Networks for Estimation and Inference**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1809.09953)
     
     Max H. Farrell, Tengyuan Liang, Sanjog Misra.
+
+1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
+    
+    Jason Poulos.
 
 1. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
     
@@ -129,6 +134,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning**, *PNAS*, 2019. [paper](https://arxiv.org/abs/1706.03461)
 
     Miruna Oprescu, Vasilis Syrgkanis, Zhiwei Steven Wu.
+
+1. **Machine Learning Analysis of Heterogeneity in the Effect of Student Mindset Interventions**, *Observational Studies*, 2019. [paper](https://arxiv.org/abs/1811.05975)
+    
+    Fredrik D. Johansson.
 
 1. **Estimation and Inference of Heterogeneous Treatment Effects using Random Forests**, *JASA*, 2018. [paper](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1319839#.XaPLBeZKhhE)
     
@@ -286,14 +295,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Jason Poulos.
 
-1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
-    
-    Jason Poulos.
-
-1. **Machine Learning Analysis of Heterogeneity in the Effect of Student Mindset Interventions**, *Observational Studies*, 2019. [paper](https://arxiv.org/abs/1811.05975)
-    
-    Fredrik D. Johansson.
-
 1. **Estimating Treatment Effects with Causal Forests: An Application**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.07409)
     
     Susan Athey, Stefan Wager.
@@ -318,7 +319,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **NeurIPS 2019 Workshop** [link](http://tripods.cis.cornell.edu/neurips19_causalml/)
 
-1. **NIPS 2017 Workshop** [link](https://sites.google.com/view/causalnips2017)
+1. **NIPS 2018 Workshop** [link](https://sites.google.com/view/nips2018causallearning/home)
+
+1. **NIPS 2017 Workshop** [link](https://sites.google.com/view/causalnips2017)s
+
+1. **NIPS 2016 Workshop** [link](https://sites.google.com/site/whatif2016nips/)
 
 1. **NIPS 2013 Workshop** [link](http://clopinet.com/isabelle/Projects/NIPS2013/)
 
@@ -343,3 +348,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ### [Courses](#content)
 
 1. **CS7792 - Counterfactual Machine Learning** [link](http://www.cs.cornell.edu/courses/cs7792/2016fa/)
+
+### [Industry](#industry)
+
+1. **Causality and Machine Learning: Microsoft Research** [link] https://www.microsoft.com/en-us/research/group/causal-inference/#!publications
