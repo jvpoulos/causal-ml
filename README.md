@@ -12,7 +12,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric / double robust inference</a></td></tr>
-<tr><td colspan="2"><a href="#policy-learning">8. Policy learning</a></td></tr>
+<tr><td colspan="2"><a href="#policy-learning">8. Policy learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
 <tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
 <tr>
@@ -216,7 +216,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
-## [Policy learning](#content)  
+## [Policy learning / causal discovery](#content)  
+
+1. **Causal Discovery with Reinforcement Learning**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1906.04477)
+    
+    Shengyu Zhu, Zhitang Chen.
 
 1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
     
