@@ -11,7 +11,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#dimensionality-reduction">4. Dimensionality reduction / regression adjustment</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
-<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric / double robust inferenc</a></td></tr>
+<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric / double robust inference</a></td></tr>
 <tr><td colspan="2"><a href="#policy-learning">8. Policy learning</a></td></tr>
 <tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
 <tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
@@ -39,7 +39,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Susan Athey.
 
-## [Counterfactual prediction/ individual treatment effects](#content)  
+## [Counterfactual prediction / individual treatment effects](#content)  
 
 1. **Generative Learning of Counterfactual for Synthetic Control Applications in Econometrics**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07178)
     
@@ -95,14 +95,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Learning Representations for Counterfactual Inference**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1605.03661) [code](https://github.com/clinicalml/cfrnet)
     
     Fredrik D. Johansson, Uri Shalit, David Sontag.
-
-1. **Recommendations as Treatments: Debiasing Learning and Evaluation**, *PMLR*, 2016. [paper](http://proceedings.mlr.press/v48/schnabel16.html)
-    
-    Tobias Schnabel, Adith Swaminathan, Ashudeep Singh, Navin Chandak, Thorsten Joachims.
-
-1. **Collaborative Prediction and Ranking with Non-Random Missing Data**, *RecSys*, 2009. [paper](http://www.cs.toronto.edu/~zemel/documents/acmrec2009-MarlinZemel.pdf)
-    
-    Benjamin M. Marlin, Richard S. Zemel.
 
 ## [Dimensionality reduction / regression adjustment](#content)  
 
@@ -284,6 +276,13 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 </details>
 
+7. **Recommendations as Treatments: Debiasing Learning and Evaluation**, *PMLR*, 2016. [paper](http://proceedings.mlr.press/v48/schnabel16.html)
+    
+    Tobias Schnabel, Adith Swaminathan, Ashudeep Singh, Navin Chandak, Thorsten Joachims.
+
+1. **Collaborative Prediction and Ranking with Non-Random Missing Data**, *RecSys*, 2009. [paper](http://www.cs.toronto.edu/~zemel/documents/acmrec2009-MarlinZemel.pdf)
+    
+    Benjamin M. Marlin, Richard S. Zemel.
 
 ## [Applications](#content)
 
