@@ -6,12 +6,12 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Surveys</a></td></tr> 
-<tr><td colspan="2"><a href="#counterfactual-prediction">2. Counterfactual prediction</a></td></tr>
+<tr><td colspan="2"><a href="#counterfactual-prediction">2. Counterfactual prediction/ individual treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#representation-learning">3. Representation learning</a></td></tr>
 <tr><td colspan="2"><a href="#dimensionality-reduction">4. Dimensionality reduction</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
-<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric inference</a></td></tr>
+<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric/ double robust inferenc</a></td></tr>
 <tr><td colspan="2"><a href="#policy-learning">8. Policy learning</a></td></tr>
 <tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
 <tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
@@ -39,7 +39,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Susan Athey.
 
-## [Counterfactual prediction/ individual treatment effect estimation](#content)  
+## [Counterfactual prediction/ individual treatment effects](#content)  
 
 1. **Generative Learning of Counterfactual for Synthetic Control Applications in Econometrics**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07178)
     
@@ -194,7 +194,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Zachary C. Lipton, David C. Kale, Randall Wetzel.
 
-## [Semiparametric/double robust inference](#content)  
+## [Semiparametric/ double robust inference](#content)  
 
 1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
     
@@ -224,7 +224,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
-## [Policy learning/](#content)  
+## [Policy learning](#content)  
 
 1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
     
