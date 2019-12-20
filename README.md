@@ -218,6 +218,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Policy learning / causal discovery](#content)  
 
+1. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10912)
+    
+    Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal.
+
 1. **Causal Discovery with Reinforcement Learning**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1906.04477)
     
     Shengyu Zhu, Zhitang Chen.
