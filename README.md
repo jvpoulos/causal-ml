@@ -154,6 +154,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Missing data imputation](#content)  
 
+
+1. **GP-VAE: Deep Probabilistic Time Series Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1907.04155) 
+
+    Vincent Fortuin, Dmitry Baranchuk, Gunnar Rätsch, Stephan Mandt.
+
 1. **NAOMI: Non-Autoregressive Multiresolution Sequence Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10946) 
 
     Yukai Liu, Rose Yu, Stephan Zheng, Eric Zhan, Yisong Yue.
@@ -238,7 +243,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Xinkun Nie, Emma Brunskill, Stefan Wager.
 
-1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075)
+1. **Learning Neural Causal Models from Unknown Interventions**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.01075) [code](https://github.com/nke001/causal_learning_unknown_interventions)
     
     Nan Rosemary Ke, Olexa Bilaniuk, Anirudh Goyal, Stefan Bauer, Hugo Larochelle, Chris Pal, Yoshua Bengio.
 
