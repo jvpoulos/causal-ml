@@ -261,7 +261,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Causal recommendation](#content) 
 
-1. **The Deconfounded Recommender: A Causal Inference Approach to Recommendation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1808.06581)
+1. **The Deconfounded Recommender: A Causal Inference Approach to Recommendation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1808.06581) [code](https://github.com/blei-lab/deconfounder_tutorial)
     
     Yixin Wang, Dawen Liang, Laurent Charlin, David M. Blei. 
 
