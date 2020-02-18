@@ -6,7 +6,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Surveys</a></td></tr> 
-<tr><td colspan="2"><a href="#counterfactual-prediction">2. Counterfactual prediction / individual treatment effects</a></td></tr>
+<tr><td colspan="2"><a href="#individual-treatment-effects">2. Individual treatment effects</a></td></tr>
 <tr><td colspan="2"><a href="#representation-learning">3. Representation learning</a></td></tr>
 <tr><td colspan="2"><a href="#dimensionality-reduction">4. Dimensionality reduction / regression adjustment</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
@@ -31,6 +31,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr>
     <td>&emsp;<a href="#courses">11.5. Courses</a></td>
     <td>&emsp;<a href="#industry">11.6. Industry</a></td>
+    <td>&emsp;<a href="#industry">11.7. Research groups</a></td>
 </tr> 
 </table>
 
@@ -39,7 +40,15 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Susan Athey.
 
-## [Counterfactual prediction / individual treatment effects](#content)  
+## [Individual treatment effects](#content)  
+
+1. **Learning Overlapping Representations for the Estimation of Individualized Treatment Effects**, *AISTATS*, 2020. [paper]https://arxiv.org/abs/2001.04754)
+
+    Yao Zhang, Alexis Bellot, Mihaela van der Schaar.
+
+1. **Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations**, *ICLR*, 2020. [paper]https://openreview.net/pdf?id=BJg866NFvB)
+
+    Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar.
 
 1. **Generative Learning of Counterfactual for Synthetic Control Applications in Econometrics**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07178)
     
@@ -231,9 +240,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Shengyu Zhu, Zhitang Chen.
 
-1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
+<!-- 1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
     
-    Greg Lewis, Vasilis Syrgkanis.
+    Greg Lewis, Vasilis Syrgkanis. -->
 
 1. **CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1709.02023)
     
@@ -366,3 +375,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ### [Industry](#industry)
 
 1. **Causality and Machine Learning: Microsoft Research** [link] https://www.microsoft.com/en-us/research/group/causal-inference/#!publications
+
+### [Research groups](#research-groups)
+
+1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link] http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html
