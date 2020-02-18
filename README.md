@@ -42,11 +42,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Individual treatment effects](#content)  
 
-1. **Learning Overlapping Representations for the Estimation of Individualized Treatment Effects**, *AISTATS*, 2020. [paper]https://arxiv.org/abs/2001.04754)
+1. **Learning Overlapping Representations for the Estimation of Individualized Treatment Effects**, *AISTATS*, 2020. [paper](https://arxiv.org/abs/2001.04754)
 
     Yao Zhang, Alexis Bellot, Mihaela van der Schaar.
 
-1. **Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations**, *ICLR*, 2020. [paper]https://openreview.net/pdf?id=BJg866NFvB)
+1. **Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations**, *ICLR*, 2020. [paper](https://openreview.net/pdf?id=BJg866NFvB)
 
     Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar.
 
@@ -374,8 +374,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Industry](#industry)
 
-1. **Causality and Machine Learning: Microsoft Research** [link] https://www.microsoft.com/en-us/research/group/causal-inference/#!publications
+1. **Causality and Machine Learning: Microsoft Research** [link](https://www.microsoft.com/en-us/research/group/causal-inference/#!publications)
 
 ### [Research groups](#research-groups)
 
-1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link] http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html
+1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link](http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html)
