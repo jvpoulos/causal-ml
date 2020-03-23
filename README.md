@@ -356,6 +356,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Code libraries](#content)
 
+1. **WhyNot: A Python package connecting tools from causal inference and reinforcement learning with a range of complex simulators** [link](https://github.com/zykls/whynot)
+
 1. **EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation** [link](https://github.com/microsoft/EconML)
 
 1. **Uplift modeling and causal inference with machine learning algorithms** [link](https://github.com/uber/causalml)
