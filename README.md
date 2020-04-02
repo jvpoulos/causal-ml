@@ -32,10 +32,16 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     <td>&emsp;<a href="#courses">11.5. Courses</a></td>
     <td>&emsp;<a href="#industry">11.6. Industry</a></td>
     <td>&emsp;<a href="#industry">11.7. Research groups</a></td>
+    <td>&emsp;<a href="#lists">11.8. Lists</a></td>
 </tr> 
 </table>
 
 ## [Survey papers](#content)
+
+1. **A Survey of Learning Causality with Data: Problems and Methods**, *ACM*, 2010. [paper](https://arxiv.org/abs/1809.09337)
+    
+    Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu.
+
 1. **Machine learning and causal inference for policy evaluation**, *KDD*, 2015. [paper](https://dl.acm.org/citation.cfm?id=2785466)
     
     Susan Athey.
@@ -381,3 +387,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ### [Research groups](#research-groups)
 
 1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link](http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html)
+
+### [Lists](#lists)
+
+1. **An index of algorithms for learning causality with data** [link](https://github.com/rguo12/awesome-causality-algorithms)
+
+1. **An index of datasets that can be used for learning causality** [link](https://github.com/rguo12/awesome-causality-data)
