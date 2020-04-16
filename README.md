@@ -99,6 +99,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Representation learning](#content)   
 
+1. **Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1810.00656) [code](https://github.com/d909b/perfect_match)
+    
+    Patrick Schwab, Lorenz Linhardt, Walter Karlen.
+
 1. **Representation Learning for Treatment Effect Estimation from Observational Data**, *NeurIPS*, 2019. [paper](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) 
     
     Liuyi Yao et al.
@@ -116,6 +120,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Robust Synthetic Control**, *JMLR*, 2019. [paper](http://www.jmlr.org/papers/volume19/17-777.pdf)
     
     Muhammad Amjad, Devavrat Shah, Dennis Shen.
+
+1. **Program Evaluation and Causal Inference with High-Dimensional Data**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1311.2645)
+    
+    Alexandre Belloni, Victor Chernozhukov, Ivan Fernández-Val, Christian Hansen.
 
 1. **ArCo: An artificial counterfactual approach for high-dimensional panel time-series data**, *Journal of Econometrics*, 2018. [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2823687)
     
