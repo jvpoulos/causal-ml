@@ -135,6 +135,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Heterogeneous treatment effects](#content)  
 
+1. **Quasi-Oracle Estimation of Heterogeneous Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.04912)
+
+    Xinkun Nie, Stefan Wager.
+
 1. **Generalized Random Forests**, *Annals of Statistics*, 2019. [paper](https://arxiv.org/abs/1610.01271)
 
     Susan Athey, Julie Tibshirani, Stefan Wager.
@@ -198,7 +202,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu.
 
-1. **BRITS: Bidirectional Recurrent Imputation for Time Series**, *NeurIPS*, 2018. [paper](https://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf) 
+1. **BRITS: Bidirectional Recurrent Imputation for Time Series**, *NeurIPS*, 2018. [paper](https://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf) [code](https://github.com/caow13/BRITS)
 
     Wei Cao et al.
 
@@ -245,6 +249,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
 ## [Policy learning / causal discovery](#content)  
+
+1. **Causal Discovery with Attention-Based Convolutional Neural Networks**, *Machine Learning and Knowledge Extraction*, 2019. [paper](https://www.mdpi.com/2504-4990/1/1/19) [code](https://github.com/M-Nauta/TCDF)
+    
+    Meike Nauta, Doina Bucur, Christin Seifert.
 
 1. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10912)
     
