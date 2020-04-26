@@ -76,10 +76,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
 
-1. **GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets**, *ICLR*, 2018. [paper](https://openreview.net/pdf?id=ByKWUeWA-)
+1. **GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets**, *ICLR*, 2018. [paper](https://openreview.net/pdf?id=ByKWUeWA-) [code](https://github.com/jsyoon0823/GANITE)
     
     Jinsung Yoon, James Jordon, Mihaela van der Schaar.
-
 
 1. **Estimation of Individual Treatment Effect in Latent Confounder Models via Adversarial Learning**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1811.08943)
     
