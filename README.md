@@ -48,6 +48,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Individual treatment effects](#content)  
 
+1. **Learning Individual Causal Effects from Networked Observational Data**, *WSDM*, 2020. [paper](https://arxiv.org/abs/1906.03485) [code](https://github.com/rguo12/network-deconfounder-wsdm20)
+
+    Ruocheng Guo, Jundong Li, Huan Liu.
+
 1. **Learning Overlapping Representations for the Estimation of Individualized Treatment Effects**, *AISTATS*, 2020. [paper](https://arxiv.org/abs/2001.04754)
 
     Yao Zhang, Alexis Bellot, Mihaela van der Schaar.
@@ -63,10 +67,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Adapting Neural Networks for the Estimation of Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1906.02120) [code](http://github.com/claudiashi57/dragonnet)
     
     Claudia Shi, David M. Blei, Victor Veitch.
-
-1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
-    
-    Jason Poulos.
 
 1. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
     
@@ -88,7 +88,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
 
-1. **Causal Effect Inference with Deep Latent-Variable Models**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1705.08821)
+1. **Causal Effect Inference with Deep Latent-Variable Models**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1705.08821) [code](https://github.com/AMLab-Amsterdam/CEVAE)
     
     Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling.
 
@@ -331,6 +331,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Social sciences](#content)
 
+1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
+    
+    Jason Poulos.
+
 1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
     
     Jason Poulos.
@@ -365,7 +369,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **NIPS 2018 Workshop** [link](https://sites.google.com/view/nips2018causallearning/home)
 
-1. **NIPS 2017 Workshop** [link](https://sites.google.com/view/causalnips2017)s
+1. **NIPS 2017 Workshop** [link](https://sites.google.com/view/causalnips2017)
 
 1. **NIPS 2016 Workshop** [link](https://sites.google.com/site/whatif2016nips/)
 
