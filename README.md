@@ -38,15 +38,17 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Survey papers](#content)
 
-1. **A Survey of Learning Causality with Data: Problems and Methods**, *ACM*, 2010. [paper](https://arxiv.org/abs/1809.09337)
-    
-    Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu.
-
 1. **Machine learning and causal inference for policy evaluation**, *KDD*, 2015. [paper](https://dl.acm.org/citation.cfm?id=2785466)
     
     Susan Athey.
 
-## [Individual treatment effects](#content)  
+1. **A Survey of Learning Causality with Data: Problems and Methods**, *ACM*, 2010. [paper](https://arxiv.org/abs/1809.09337)
+    
+    Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu.
+
+## [Individual treatment effects](#content) 
+
+# [Static data](#content) 
 
 1. **Learning Individual Causal Effects from Networked Observational Data**, *WSDM*, 2020. [paper](https://arxiv.org/abs/1906.03485) [code](https://github.com/rguo12/network-deconfounder-wsdm20)
 
@@ -56,25 +58,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Yao Zhang, Alexis Bellot, Mihaela van der Schaar.
 
-1. **Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations**, *ICLR*, 2020. [paper](https://openreview.net/pdf?id=BJg866NFvB)
-
-    Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar.
-
-1. **Generative Learning of Counterfactual for Synthetic Control Applications in Econometrics**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07178)
-    
-    Chirag Modi, Uros Seljak.
-
 1. **Adapting Neural Networks for the Estimation of Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1906.02120) [code](http://github.com/claudiashi57/dragonnet)
     
     Claudia Shi, David M. Blei, Victor Veitch.
-
-1. **Matrix Completion Methods for Causal Panel Data Models**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1710.10251)
-    
-    Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, Khashayar Khosravi.
-
-1. **Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks**, *NIPS*, 2018. [paper](http://proceedings.mlr.press/v70/hartford17a.html)
-    
-    Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
 
 1. **GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets**, *ICLR*, 2018. [paper](https://openreview.net/pdf?id=ByKWUeWA-) [code](https://github.com/jsyoon0823/GANITE)
     
@@ -95,6 +81,24 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Estimating individual treatment effect: generalization bounds and algorithms**, *PMLR*, 2017. [paper](http://proceedings.mlr.press/v70/shalit17a.html) [code](https://github.com/clinicalml/cfrnet)
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
+
+# [Temporal data](#content) 
+
+1. **Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders**, *ICML*, 2020. [paper](https://arxiv.org/abs/1902.00450) [code](https://github.com/ioanabica/Time-Series-Deconfounder)
+
+    Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar.
+
+1. **Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations**, *ICLR*, 2020. [paper](https://openreview.net/pdf?id=BJg866NFvB) [code](https://github.com/ioanabica/Counterfactual-Recurrent-Network)
+
+    Ioana Bica, Ahmed M. Alaa, James Jordon, Mihaela van der Schaar.
+
+1. **Generative Learning of Counterfactual for Synthetic Control Applications in Econometrics**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1910.07178)
+    
+    Chirag Modi, Uros Seljak.
+
+1. **Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks**, *NIPS*, 2018. [paper](https://papers.nips.cc/paper/7977-forecasting-treatment-responses-over-time-using-recurrent-marginal-structural-networks) [code](https://github.com/sjblim/rmsn_nips_2018)
+    
+    Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
 
 ## [Representation learning](#content)   
 
@@ -261,10 +265,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Shengyu Zhu, Zhitang Chen.
 
-<!-- 1. **Adversarial Generalized Method of Moments**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1803.07164) [code](https://github.com/vsyrgkanis/adversarial_gmm)
-    
-    Greg Lewis, Vasilis Syrgkanis. -->
-
 1. **CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1709.02023)
     
     Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath.
@@ -331,9 +331,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Social sciences](#content)
 
-1. **RNN-based counterfactual prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
+1. **RNN-based counterfactual prediction, with an application to homestead policy and public schooling**, *arXiv*, 2020. [paper](https://arxiv.org/abs/1712.03553) [code](https://github.com/jvpoulos/rnns-causal)
     
-    Jason Poulos.
+    Jason Poulos, Shuxi Zeng.
 
 1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
     
