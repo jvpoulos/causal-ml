@@ -31,7 +31,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr>
     <td>&emsp;<a href="#courses">11.5. Courses</a></td>
     <td>&emsp;<a href="#industry">11.6. Industry</a></td>
-    <td>&emsp;<a href="#industry">11.7. Research groups</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#research-groups">11.7. Research groups</a></td>
     <td>&emsp;<a href="#lists">11.8. Lists</a></td>
 </tr> 
 </table>
@@ -48,7 +50,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Individual treatment effects](#content) 
 
-# [Static data](#content) 
+### [Static data](#content) 
 
 1. **Learning Individual Causal Effects from Networked Observational Data**, *WSDM*, 2020. [paper](https://arxiv.org/abs/1906.03485) [code](https://github.com/rguo12/network-deconfounder-wsdm20)
 
@@ -82,7 +84,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Uri Shalit, Fredrik D. Johansson, David Sontag.
 
-# [Temporal data](#content) 
+### [Temporal data](#content) 
 
 1. **Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders**, *ICML*, 2020. [paper](https://arxiv.org/abs/1902.00450) [code](https://github.com/ioanabica/Time-Series-Deconfounder)
 
@@ -365,6 +367,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Workshops](#content)
 
+1. **NeurIPS 2020 Workshop** [link](https://www.cmu.edu/dietrich/causality/neurips20ws/)
+
 1. **NeurIPS 2019 Workshop** [link](http://tripods.cis.cornell.edu/neurips19_causalml/)
 
 1. **NIPS 2018 Workshop** [link](https://sites.google.com/view/nips2018causallearning/home)
@@ -399,15 +403,15 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **CS7792 - Counterfactual Machine Learning** [link](http://www.cs.cornell.edu/courses/cs7792/2016fa/)
 
-### [Industry](#industry)
+### [Industry](#content)
 
 1. **Causality and Machine Learning: Microsoft Research** [link](https://www.microsoft.com/en-us/research/group/causal-inference/#!publications)
 
-### [Research groups](#research-groups)
+### [Research groups](#content)
 
 1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link](http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html)
 
-### [Lists](#lists)
+### [Lists](#content)
 
 1. **An index of algorithms for learning causality with data** [link](https://github.com/rguo12/awesome-causality-algorithms)
 
