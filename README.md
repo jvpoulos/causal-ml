@@ -52,6 +52,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
+1. **Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks**, *WSDM*, 2020. [paper](https://arxiv.org/abs/2002.12326) [code](https://github.com/ioanabica/SCIGAN)
+
+    Ioana Bica, James Jordon, Mihaela van der Schaar.
+
 1. **Learning Individual Causal Effects from Networked Observational Data**, *WSDM*, 2020. [paper](https://arxiv.org/abs/1906.03485) [code](https://github.com/rguo12/network-deconfounder-wsdm20)
 
     Ruocheng Guo, Jundong Li, Huan Liu.
@@ -229,10 +233,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Jelena Bradic, Stefan Wager, Yinchu Zhu.
 
-1. **Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.00450)
-    
-    Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar.
-
 1. **Deep Neural Networks for Estimation and Inference**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1809.09953)
     
     Max H. Farrell, Tengyuan Liang, Sanjog Misra.
@@ -337,10 +337,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Jason Poulos, Shuxi Zeng.
 
-1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
-    
-    Jason Poulos.
-
 1. **Estimating Treatment Effects with Causal Forests: An Application**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1902.07409)
     
     Susan Athey, Stefan Wager.
@@ -350,6 +346,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     Susan Athey, Mohsen Bayati, Guido W. Imbens, Zhaonan Qu.
 
 ### [Text](#content)
+
+1. **Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition**, *EMNLP*, 2020. [paper](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) [code](https://github.com/xijiz/cfgen)
+    
+    Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.
 
 1. **Using Text Embeddings for Causal Inference**, *arXIv*, 2019. [paper](https://arxiv.org/abs/1905.12741) [code](https://github.com/blei-lab/causal-text-embeddings)
     
@@ -384,6 +384,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **PMLR, Volume 6: Causality: Objectives and Assessment, 12 December 2008, Whistler, Canada** [link](http://proceedings.mlr.press/v6/)
 
 ### [Code libraries](#content)
+
+1. **Causal Inference 360: A Python package for inferring causal effects from observational data.** [link](https://github.com/IBM/causallib)
 
 1. **WhyNot: A Python package connecting tools from causal inference and reinforcement learning with a range of complex simulators** [link](https://github.com/zykls/whynot)
 
