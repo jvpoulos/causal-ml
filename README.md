@@ -14,39 +14,44 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric / double robust inference</a></td></tr>
 <tr><td colspan="2"><a href="#policy-learning">8. Policy learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
-<tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#causal-reinforcement-learning">10. Causal reinforcement learning</a></td></tr>
+<tr><td colspan="2"><a href="#applications">11. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">10.1. Social Sciences</a></td>
-    <td>&ensp;<a href="#text">10.2. Text</a></td>
+    <td>&emsp;<a href="social-sciences">11.1. Social Sciences</a></td>
+    <td>&ensp;<a href="#text">11.2. Text</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#resources">11. Resources</a></td></tr> 
+<tr><td colspan="2"><a href="#resources">12. Resources</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#workshops">11.1. Workshops</a></td>
-    <td>&emsp;<a href="#proceedings">11.2. Proceedings</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#code-libraries">11.3. Code libraries</a></td>
-    <td>&emsp;<a href="#benchmark-datasets">11.4. Benchmark datasets</a></td>
+    <td>&emsp;<a href="#workshops">12.1. Workshops</a></td>
+    <td>&emsp;<a href="#proceedings">12.2. Proceedings</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#courses">11.5. Courses</a></td>
-    <td>&emsp;<a href="#industry">11.6. Industry</a></td>
+    <td>&ensp;<a href="#code-libraries">12.3. Code libraries</a></td>
+    <td>&emsp;<a href="#benchmark-datasets">12.4. Benchmark datasets</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#research-groups">11.7. Research groups</a></td>
-    <td>&emsp;<a href="#lists">11.8. Lists</a></td>
+    <td>&emsp;<a href="#courses">12.5. Courses</a></td>
+    <td>&emsp;<a href="#industry">12.6. Industry</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#research-groups">12.7. Research groups</a></td>
+    <td>&emsp;<a href="#lists">12.8. Lists</a></td>
 </tr> 
 </table>
 
 ## [Survey papers](#content)
 
+1. **Toward Causal Representation Learning**, *IEEE*, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9363924)
+    
+    Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio.
+
+1. **A Survey of Learning Causality with Data: Problems and Methods**, *ACM*, 2020. [paper](https://arxiv.org/abs/1809.09337)
+    
+    Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu.
+
 1. **Machine learning and causal inference for policy evaluation**, *KDD*, 2015. [paper](https://dl.acm.org/citation.cfm?id=2785466)
     
     Susan Athey.
-
-1. **A Survey of Learning Causality with Data: Problems and Methods**, *ACM*, 2010. [paper](https://arxiv.org/abs/1809.09337)
-    
-    Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu.
 
 ## [Individual treatment effects](#content) 
 
@@ -329,6 +334,12 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Benjamin M. Marlin, Richard S. Zemel.
 
+## [Causal reinforcement learning](#content) 
+
+1. **Counterfactual Multi-Agent Policy Gradients**, *AAAI*, 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17193)
+    
+    Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. 
+
 ## [Applications](#content)
 
 ### [Social sciences](#content)
@@ -349,7 +360,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition**, *EMNLP*, 2020. [paper](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) [code](https://github.com/xijiz/cfgen)
     
-    Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.
+    Xiangji Zeng, Yunliang Li, Yuchen Zhai, Yin Zhang.
 
 1. **Using Text Embeddings for Causal Inference**, *arXIv*, 2019. [paper](https://arxiv.org/abs/1905.12741) [code](https://github.com/blei-lab/causal-text-embeddings)
     
