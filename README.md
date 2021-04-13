@@ -10,32 +10,31 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#representation-learning">3. Representation learning</a></td></tr>
 <tr><td colspan="2"><a href="#dimensionality-reduction">4. Dimensionality reduction / regression adjustment</a></td></tr>
 <tr><td colspan="2"><a href="#heterogeneous-treatment-effects">5. Heterogeneous treatment effects</a></td></tr>
-<tr><td colspan="2"><a href="#missing-data-imputation">6. Missing data imputation</a></td></tr>
-<tr><td colspan="2"><a href="#semiparametric-inference">7. Semiparametric / double robust inference</a></td></tr>
-<tr><td colspan="2"><a href="#policy-learning">8. Policy learning / causal discovery</a></td></tr>
-<tr><td colspan="2"><a href="#causal-recommendation">9. Causal recommendation</a></td></tr>
-<tr><td colspan="2"><a href="#causal-reinforcement-learning">10. Causal reinforcement learning</a></td></tr>
-<tr><td colspan="2"><a href="#applications">11. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#semiparametric-inference">6. Semiparametric / double robust inference</a></td></tr>
+<tr><td colspan="2"><a href="#policy-learning">7. Policy learning / causal discovery</a></td></tr>
+<tr><td colspan="2"><a href="#causal-recommendation">8. Causal recommendation</a></td></tr>
+<tr><td colspan="2"><a href="#causal-reinforcement-learning">9. Causal reinforcement learning</a></td></tr>
+<tr><td colspan="2"><a href="#applications">10. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">11.1. Social Sciences</a></td>
-    <td>&ensp;<a href="#text">11.2. Text</a></td>
+    <td>&emsp;<a href="social-sciences">10.1. Social Sciences</a></td>
+    <td>&ensp;<a href="#text">10.2. Text</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#resources">12. Resources</a></td></tr> 
+<tr><td colspan="2"><a href="#resources">11. Resources</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#workshops">12.1. Workshops</a></td>
-    <td>&emsp;<a href="#proceedings">12.2. Proceedings</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#code-libraries">12.3. Code libraries</a></td>
-    <td>&emsp;<a href="#benchmark-datasets">12.4. Benchmark datasets</a></td>
+    <td>&emsp;<a href="#workshops">11.1. Workshops</a></td>
+    <td>&emsp;<a href="#proceedings">11.2. Proceedings</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#courses">12.5. Courses</a></td>
-    <td>&emsp;<a href="#industry">12.6. Industry</a></td>
+    <td>&ensp;<a href="#code-libraries">11.3. Code libraries</a></td>
+    <td>&emsp;<a href="#benchmark-datasets">11.4. Benchmark datasets</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#research-groups">12.7. Research groups</a></td>
-    <td>&emsp;<a href="#lists">12.8. Lists</a></td>
+    <td>&emsp;<a href="#courses">11.5. Courses</a></td>
+    <td>&emsp;<a href="#industry">11.6. Industry</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#research-groups">11.7. Research groups</a></td>
+    <td>&emsp;<a href="#lists">11.8. Lists</a></td>
 </tr> 
 </table>
 
@@ -109,9 +108,13 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks**, *NIPS*, 2018. [paper](https://papers.nips.cc/paper/7977-forecasting-treatment-responses-over-time-using-recurrent-marginal-structural-networks) [code](https://github.com/sjblim/rmsn_nips_2018)
     
-    Bryan Lim, Ahmed Alaa, Mihaela van der Schaar.
+    Sonali Parbhoo, Stefan Bauer, Patrick Schwab.
 
 ## [Representation learning](#content)   
+
+1. **NCoRE: Neural Counterfactual Representation Learning for Combinations of Treatments**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2103.11175)
+    
+    Patrick Schwab, Lorenz Linhardt, Walter Karlen.
 
 1. **Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1810.00656) [code](https://github.com/d909b/perfect_match)
     
@@ -193,45 +196,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Susan Athey, Guido W. Imbens.
 
-## [Missing data imputation](#content)  
-
-
-1. **GP-VAE: Deep Probabilistic Time Series Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1907.04155) 
-
-    Vincent Fortuin, Dmitry Baranchuk, Gunnar Rätsch, Stephan Mandt.
-
-1. **NAOMI: Non-Autoregressive Multiresolution Sequence Imputation**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1901.10946) 
-
-    Yukai Liu, Rose Yu, Stephan Zheng, Eric Zhan, Yisong Yue.
-
-1. **GAIN: Missing Data Imputation using Generative Adversarial Nets**, *ICML*, 2018. [paper](http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf) [code](https://github.com/jsyoon0823/GAIN)
-
-    Jinsung Yoon, James Jordon, Mihaela van der Schaar.
-
-1. **MIDA: Multiple Imputation using Denoising Autoencoders**, *arXiv*, 2018. [paper](https://arxiv.org/abs/1705.02737) [code](https://github.com/lgondara/loss-to-followup-DAE)
-
-    Lovedeep Gondara, Ke Wang.
-
-1. **Recurrent Neural Networks for Multivariate Time Series with Missing Values**, *Scientific Reports*, 2018. [paper](https://www.nature.com/articles/s41598-018-24271-9) [code](https://github.com/zhiyongc/GRU-D)
-
-    Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu.
-
-1. **BRITS: Bidirectional Recurrent Imputation for Time Series**, *NeurIPS*, 2018. [paper](https://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf) [code](https://github.com/caow13/BRITS)
-
-    Wei Cao et al.
-
-1. **Estimating Missing Data in Temporal Data Streams Using Multi-directional Recurrent Neural Networks**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1711.08742) [code](https://github.com/jsyoon0823/MRNN)
-
-    Jinsung Yoon, William R. Zame, Mihaela van der Schaar.
-
-1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks**, *NeurIPS*, 2017. [paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf) [code](https://github.com/dtsbourg/magnesium)
-
-    Federico Monti, Michael M. Bronstein, Xavier Bresson.
-
-1. **Modeling Missing Data in Clinical Time Series with RNNs**, *JMLR*, 2016. [paper](http://proceedings.mlr.press/v56/Lipton16.pdf) 
-
-    Zachary C. Lipton, David C. Kale, Randall Wetzel.
-
 ## [Semiparametric / double robust inference](#content)  
 
 1. **Sparsity Double Robust Inference of Average Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1905.00744)
@@ -259,6 +223,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     Miroslav Dudík, Dumitru Erhan, John Langford, Lihong Li.
 
 ## [Policy learning / causal discovery](#content)  
+
+1. **Differentiable Causal Discovery Under Unmeasured Confounding**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2010.06978)
+    
+    Rohit Bhattacharya, Tushar Nagarajan, Daniel Malinsky, Ilya Shpitser.
 
 1. **Causal Discovery with Attention-Based Convolutional Neural Networks**, *Machine Learning and Knowledge Extraction*, 2019. [paper](https://www.mdpi.com/2504-4990/1/1/19) [code](https://github.com/M-Nauta/TCDF)
     
@@ -357,6 +325,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     Susan Athey, Mohsen Bayati, Guido W. Imbens, Zhaonan Qu.
 
 ### [Text](#content)
+
+1. **Sketch and Customize: A Counterfactual Story Generator**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2104.00929)
+    
+    Changying Hao, Liang Pang, Yanyan Lan, Yan Wang, Jiafeng Guo, Xueqi Cheng.
 
 1. **Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition**, *EMNLP*, 2020. [paper](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) [code](https://github.com/xijiz/cfgen)
     
