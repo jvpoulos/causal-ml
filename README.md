@@ -114,7 +114,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **NCoRE: Neural Counterfactual Representation Learning for Combinations of Treatments**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2103.11175)
     
-    Patrick Schwab, Lorenz Linhardt, Walter Karlen.
+    Sonali Parbhoo, Stefan Bauer, Patrick Schwab.
 
 1. **Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1810.00656) [code](https://github.com/d909b/perfect_match)
     
