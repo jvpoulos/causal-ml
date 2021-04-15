@@ -326,6 +326,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Text](#content)
 
+1. **Causal Effects of Linguistic Properties**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2010.12919)
+    
+     Reid Pryzant, Dallas Card, Dan Jurafsky, Victor Veitch, Dhanya Sridhar.
+
 1. **Sketch and Customize: A Counterfactual Story Generator**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2104.00929)
     
     Changying Hao, Liang Pang, Yanyan Lan, Yan Wang, Jiafeng Guo, Xueqi Cheng.
@@ -349,6 +353,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ## [Resources](#content)
 
 ### [Workshops](#content)
+
+1. **EMNLP 2021 Workshop** [link](https://causaltext.github.io/2021/)
 
 1. **NeurIPS 2020 Workshop** [link](https://www.cmu.edu/dietrich/causality/neurips20ws/)
 
@@ -401,3 +407,5 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **An index of algorithms for learning causality with data** [link](https://github.com/rguo12/awesome-causality-algorithms)
 
 1. **An index of datasets that can be used for learning causality** [link](https://github.com/rguo12/awesome-causality-data)
+
+1. **Papers about Causal Inference and Language** [link](https://github.com/causaltext/causal-text-papers)
