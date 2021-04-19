@@ -33,7 +33,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     <td>&emsp;<a href="#industry">11.6. Industry</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#research-groups">11.7. Research groups</a></td>
+    <td>&emsp;<a href="#groups">11.7. Groups</a></td>
     <td>&emsp;<a href="#lists">11.8. Lists</a></td>
 </tr> 
 </table>
@@ -354,6 +354,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Workshops](#content)
 
+1. **ICML 2021 Workshop** [link](https://sites.google.com/view/naci2021/home)
+
 1. **EMNLP 2021 Workshop** [link](https://causaltext.github.io/2021/)
 
 1. **NeurIPS 2020 Workshop** [link](https://www.cmu.edu/dietrich/causality/neurips20ws/)
@@ -398,7 +400,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Causality and Machine Learning: Microsoft Research** [link](https://www.microsoft.com/en-us/research/group/causal-inference/#!publications)
 
-### [Research groups](#content)
+### [Groups](#content)
+
+1. **Society for Causal Inference** [link](https://sci-info.org/)
 
 1. **Research Laboratory led by Prof. Mihaela van der Schaar** [link](http://www.vanderschaar-lab.com/NewWebsite/causal_inference_and_treatment_effects.html)
 
