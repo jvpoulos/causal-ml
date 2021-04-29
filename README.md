@@ -326,6 +326,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Text](#content)
 
+1. **Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2104.09420) [code](https://github.com/xxxiaol/GCI)
+    
+     Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao.
+
 1. **Causal Effects of Linguistic Properties**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2010.12919)
     
      Reid Pryzant, Dallas Card, Dan Jurafsky, Victor Veitch, Dhanya Sridhar.
