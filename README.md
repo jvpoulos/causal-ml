@@ -58,7 +58,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Learning Counterfactual Representations for Estimating Individual Dose-Response Curves**, *AAAI*, 2020. [paper](https://arxiv.org/abs/1902.00981) [code](https://github.com/d909b/drnet)
 
-    Ioana Bica, James Jordon, Mihaela van der Schaar.
+    Patrick Schwab, Lorenz Linhardt, Stefan Bauer, Joachim M. Buhmann, Walter Karlen.
 
 1. **Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks**, *NeurIPS*, 2020. [paper](https://arxiv.org/abs/2002.12326) [code](https://github.com/ioanabica/SCIGAN)
 
