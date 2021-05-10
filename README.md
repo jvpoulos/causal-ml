@@ -56,7 +56,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
-1. **Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks**, *WSDM*, 2020. [paper](https://arxiv.org/abs/2002.12326) [code](https://github.com/ioanabica/SCIGAN)
+1. **Learning Counterfactual Representations for Estimating Individual Dose-Response Curves**, *AAAI*, 2020. [paper](https://arxiv.org/abs/1902.00981) [code](https://github.com/d909b/drnet)
+
+    Ioana Bica, James Jordon, Mihaela van der Schaar.
+
+1. **Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks**, *NeurIPS*, 2020. [paper](https://arxiv.org/abs/2002.12326) [code](https://github.com/ioanabica/SCIGAN)
 
     Ioana Bica, James Jordon, Mihaela van der Schaar.
 
@@ -357,6 +361,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ## [Resources](#content)
 
 ### [Workshops](#content)
+
+1. **KDD 2021 Workshop** [link](https://bcirwis2021.github.io/cfp.html)
 
 1. **ICML 2021 Workshop** [link](https://sites.google.com/view/naci2021/home)
 
