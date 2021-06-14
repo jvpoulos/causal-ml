@@ -330,6 +330,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Text](#content)
 
+1. **Counterfactual Data Augmentation for Neural Machine Translation**, *ACL*, 2021. [paper](https://www.aclweb.org/anthology/2021.naacl-main.18/) [code](https://github.com/xxxiaol/GCI)
+    
+     Qi Liu, Matt Kusner, Phil Blunsom.
+
 1. **Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis**, *arXIv*, 2021. [paper](https://arxiv.org/abs/2104.09420) [code](https://github.com/xxxiaol/GCI)
     
      Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao.
@@ -361,6 +365,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ## [Resources](#content)
 
 ### [Workshops](#content)
+
+1. **UAI 2021 Workshop** [link](https://sites.google.com/uw.edu/causaluai2021/home?authuser=0)
 
 1. **KDD 2021 Workshop** [link](https://bcirwis2021.github.io/cfp.html)
 
