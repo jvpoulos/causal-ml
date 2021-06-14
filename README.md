@@ -56,6 +56,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
+1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861)[code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
+
 1. **Learning Counterfactual Representations for Estimating Individual Dose-Response Curves**, *AAAI*, 2020. [paper](https://arxiv.org/abs/1902.00981) [code](https://github.com/d909b/drnet)
 
     Patrick Schwab, Lorenz Linhardt, Stefan Bauer, Joachim M. Buhmann, Walter Karlen.
