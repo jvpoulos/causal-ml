@@ -56,7 +56,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
-1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861  [code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
+1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861)  [code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
 
     Lizhen Nie, Mao Ye, Qiang Liu, Dan Nicolae.
 
