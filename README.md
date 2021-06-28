@@ -56,10 +56,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
-1. **Deep Structural Causal Models for Tractable Counterfactual Inference**, *NeurIPS*, 2020. [paper](https://arxiv.org/abs/2006.06485) [code](https://github.com/biomedia-mira/deepscm)
-
-    Nick Pawlowski, Daniel C. Castro, Ben Glocker
-
 1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861)  [code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
 
     Lizhen Nie, Mao Ye, Qiang Liu, Dan Nicolae.
@@ -123,6 +119,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     Sonali Parbhoo, Stefan Bauer, Patrick Schwab.
 
 ## [Representation learning](#content)   
+
+1. **Deep Structural Causal Models for Tractable Counterfactual Inference**, *NeurIPS*, 2020. [paper](https://arxiv.org/abs/2006.06485) [code](https://github.com/biomedia-mira/deepscm)
+
+    Nick Pawlowski, Daniel C. Castro, Ben Glocker.
 
 1. **NCoRE: Neural Counterfactual Representation Learning for Combinations of Treatments**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2103.11175)
     
@@ -419,6 +419,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ### [Courses](#content)
 
 1. **CS7792 - Counterfactual Machine Learning** [link](http://www.cs.cornell.edu/courses/cs7792/2016fa/)
+
+1. **Introduction to Causal Inference** [link](https://www.bradyneal.com/causal-inference-course)
 
 ### [Industry](#content)
 
