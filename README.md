@@ -56,6 +56,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Static data](#content) 
 
+1. **Graph Intervention Networks for Causal Effect Estimation**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/GIN)
+    
+    Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva.
+
 1. **VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments**, *ICLR*, 2021. [paper](https://arxiv.org/abs/2103.07861)  [code](https://github.com/lushleaf/varying-coefficient-net-with-functional-tr)
 
     Lizhen Nie, Mao Ye, Qiang Liu, Dan Nicolae.
