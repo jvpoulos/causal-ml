@@ -21,7 +21,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#causal-reinforcement-learning">7. Causal reinforcement learning</a></td></tr>
 <tr><td colspan="2"><a href="#applications">8. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="social-sciences">8.1. Social Sciences</a></td>
+    <td>&emsp;<a href="#social-sciences">8.1. Social Sciences</a></td>
     <td>&ensp;<a href="#text">8.2. Text</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#resources">9. Resources</a></td></tr> 
