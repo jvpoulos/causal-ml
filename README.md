@@ -8,9 +8,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#survey-papers">1. Surveys</a></td></tr> 
 <tr>
 <tr><td colspan="2"><a href="#individual-treatment-effects">2. Individual treatment effects</a></td></tr>
-    <td>&emsp;<a href="heterogeneous-treatment-effects">2.1. Heterogeneous treatment effects</a></td>
-    <td>&emsp;<a href="heterogeneous-treatment-effects">2.2. Static data</a></td>
-    <td>&emsp;<a href="heterogeneous-treatment-effects">2.3. Temporal data</a></td>
+    <td>&emsp;<a href="#heterogeneous-treatment-effects">2.1. Heterogeneous treatment effects</a></td>
+    <td>&emsp;<a href="#static-data">2.2. Static data</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#temporal-data">2.3. Temporal data</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#representation-learning">3. Representation learning</a></td></tr>
 <tr><td colspan="2"><a href="#semiparametric-inference">4. Semiparametric / double robust inference</a></td></tr>
