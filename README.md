@@ -61,6 +61,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Heterogeneous treatment effects](#content)  
 
+1. **Can Transformers be Strong Treatment Effect Estimators?**, *arxiv*, 2022. [paper](https://arxiv.org/abs/2202.01336) [code](https://github.com/hlzhang109/TransTEE)
+
 1. **Graph Intervention Networks for Causal Effect Estimation**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/GIN)
     
     Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva.
