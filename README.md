@@ -63,6 +63,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Can Transformers be Strong Treatment Effect Estimators?**, *arxiv*, 2022. [paper](https://arxiv.org/abs/2202.01336) [code](https://github.com/hlzhang109/TransTEE)
 
+    Yi-Fan Zhang, Hanlin Zhang, Zachary C. Lipton, Li Erran Li, Eric P. Xing.
+
 1. **Graph Intervention Networks for Causal Effect Estimation**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/GIN)
     
     Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva.
