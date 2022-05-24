@@ -436,6 +436,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Introduction to Causal Inference** [link](https://www.bradyneal.com/causal-inference-course)
 
+1. **Machine Learning & Causal Inference: A Short Course** [link](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+
 ### [Industry](#content)
 
 1. **Causality and Machine Learning: Microsoft Research** [link](https://www.microsoft.com/en-us/research/group/causal-inference/#!publications)
