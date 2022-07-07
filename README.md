@@ -328,6 +328,12 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. 
 
+## [Feature Selection in Causal Inference](#content)
+
+1. **Ultra-high dimensional variable selection for doubly robust causal inference**, *Biometrics*, 2022. [Paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2007.14190&sa=D&sntz=1&usg=AOvVaw1tMWTi6AlR7cQhyA83SQKE), [Code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fdingketang%2Fultra-high-DRCI&sa=D&sntz=1&usg=AOvVaw3Lht19URyTsrt87HwuG8oq), [Slides](https://drive.google.com/file/d/1OlwNi9eMu_MQe3TyiHpHg2ULdfGD2x0S/view?usp=sharing)
+
+1. **Variable selection for causal inference: outcome-adaptive lasso**, *NeurIPS* 2019. [Video](https://crossminds.ai/video/variable-selection-for-causal-inference-outcome-adaptive-lasso-6070a5f9fa08279acdb2124a/)
+
 ## [Applications](#content)
 
 ### [Social sciences](#content)
@@ -437,6 +443,8 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Introduction to Causal Inference** [link](https://www.bradyneal.com/causal-inference-course)
 
 1. **Machine Learning & Causal Inference: A Short Course** [link](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+
+1. **KDD 2020: Lecture Style Tutorials: Casual Inference Meets Machine Learning** [link](https://www.youtube.com/watch?v=DbW2e2q8Gjs)
 
 ### [Industry](#content)
 
