@@ -19,27 +19,29 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#policy-learning">5. Policy learning / causal discovery</a></td></tr>
 <tr><td colspan="2"><a href="#causal-recommendation">6. Causal recommendation</a></td></tr>
 <tr><td colspan="2"><a href="#causal-reinforcement-learning">7. Causal reinforcement learning</a></td></tr>
-<tr><td colspan="2"><a href="#applications">8. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#causal-reinforcement-learning">8. Feature selection in causal inference</a></td></tr>
+<tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#social-sciences">8.1. Social Sciences</a></td>
-    <td>&ensp;<a href="#text">8.2. Text</a></td>
+    <td>&emsp;<a href="#social-sciences">9.1. Social Sciences</a></td>
+    <td>&ensp;<a href="#text">9.2. Text</a></td>
+        <td>&ensp;<a href="#text">9.3. Health</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#resources">9. Resources</a></td></tr> 
+<tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#workshops">9.1. Workshops</a></td>
-    <td>&emsp;<a href="#proceedings">9.2. Proceedings</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#code-libraries">9.3. Code libraries</a></td>
-    <td>&emsp;<a href="#benchmark-datasets">9.4. Benchmark datasets</a></td>
+    <td>&emsp;<a href="#workshops">10.1. Workshops</a></td>
+    <td>&emsp;<a href="#proceedings">10.2. Proceedings</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#courses">9.5. Courses</a></td>
-    <td>&emsp;<a href="#industry">9.6. Industry</a></td>
+    <td>&ensp;<a href="#code-libraries">10.3. Code libraries</a></td>
+    <td>&emsp;<a href="#benchmark-datasets">10.4. Benchmark datasets</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#groups">9.7. Groups</a></td>
-    <td>&emsp;<a href="#lists">9.8. Lists</a></td>
+    <td>&emsp;<a href="#courses">10.5. Courses</a></td>
+    <td>&emsp;<a href="#industry">10.6. Industry</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#groups">10.7. Groups</a></td>
+    <td>&emsp;<a href="#lists">10.8. Lists</a></td>
 </tr> 
 </table>
 
@@ -328,19 +330,19 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. 
 
-## [Feature Selection in Causal Inference](#content)
+## [Feature Selection in causal inference](#content)
 
-1. **Ultra-high dimensional variable selection for doubly robust causal inference**, *Biometrics*, 2022. [Paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2007.14190&sa=D&sntz=1&usg=AOvVaw1tMWTi6AlR7cQhyA83SQKE), [Code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fdingketang%2Fultra-high-DRCI&sa=D&sntz=1&usg=AOvVaw3Lht19URyTsrt87HwuG8oq), [Slides](https://drive.google.com/file/d/1OlwNi9eMu_MQe3TyiHpHg2ULdfGD2x0S/view?usp=sharing)
+1. **Ultra-high dimensional variable selection for doubly robust causal inference**, *Biometrics*, 2022. [paper](https://arxiv.org/abs/2007.14190) [code](https://github.com/dingketang/ultra-high-DRCI) [slides](https://drive.google.com/file/d/1OlwNi9eMu_MQe3TyiHpHg2ULdfGD2x0S/view?usp=sharing)
 
-1. **Variable selection for causal inference: outcome-adaptive lasso**, *NeurIPS* 2019. [Video](https://crossminds.ai/video/variable-selection-for-causal-inference-outcome-adaptive-lasso-6070a5f9fa08279acdb2124a/)
+    Dingke Tang, Dehan Kong, Wenliang Pan, Linbo Wang
+
+1. **Outcome‐adaptive lasso: variable selection for causal inference**, *Biometrics* 2017. [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/biom.12679?casa_token=_xFuHHhoWlAAAAAA:gKO0JyJC0g54pOfbOVlNew7t1M29UD_A46yJJUAGiLAuxO87p4lGmMneYklKfuWGiHCitIbvKtjfEMAN)  [video](https://crossminds.ai/video/variable-selection-for-causal-inference-outcome-adaptive-lasso-6070a5f9fa08279acdb2124a/)
+
+    Susan M. Shortreed, Ashkan Ertefaie
 
 ## [Applications](#content)
 
 ### [Social sciences](#content)
-
-1. **Retrospective causal inference via matrix completion, with an evaluation of the effect of European integration on cross-border employment**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2106.00788) [code](https://github.com/jvpoulos/schengen)
-    
-    Jason Poulos, Andrea Albanese, Andrea Mercatanti, Fan Li.
 
 1. **RNN-based counterfactual prediction, with an application to homestead policy and public schooling**, *JRSS-C*, 2021. [paper](http://jasonvpoulos.com/papers/17117351.pdf) [code](https://github.com/jvpoulos/rnns-causal)
     
@@ -387,6 +389,12 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **How to Make Causal Inferences Using Texts**, *arXIv*, 2018. [paper](https://arxiv.org/abs/1802.02163)
 
     Naoki Egami, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, Brandon M. Stewart.
+
+### [Health](#content)
+
+1. **Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**, *arXIv*, 2022. [paper](https://arxiv.org/abs/2206.15367)
+    
+     Jason Poulos, Marcela Horvitz-Lennon, Katya Zelevinsky, Thomas Huijskens, Pooja Tyagi, Jiaju Yan, Jordi Diaz, Tudor Cristea-Platon, Sharon-Lise Normand
 
 ## [Resources](#content)
 
