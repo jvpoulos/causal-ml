@@ -47,6 +47,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ## [Survey papers](#content)
 
+1. **Causal Machine Learning: A Survey and Open Problems**, 2022. [paper](https://arxiv.org/abs/2206.15475)
+
+    Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, Ricardo Silva.
+
 1. **Toward Causal Representation Learning**, *IEEE*, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9363924)
     
     Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio.
@@ -67,9 +71,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Yi-Fan Zhang, Hanlin Zhang, Zachary C. Lipton, Li Erran Li, Eric P. Xing.
 
-1. **Graph Intervention Networks for Causal Effect Estimation**, *arXiv*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/GIN)
+1. **Causal Effect Inference for Structured Treatments**, *NeurIPS*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/SIN)
     
-    Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva.
+    Jean Kaddour, Yuchen Zhu, Qi Liu, Matt J. Kusner, Ricardo Silva.
 
 1. **Quasi-Oracle Estimation of Heterogeneous Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.04912)
 
