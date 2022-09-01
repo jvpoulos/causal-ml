@@ -24,7 +24,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr>
     <td>&emsp;<a href="#social-sciences">9.1. Social Sciences</a></td>
     <td>&ensp;<a href="#text">9.2. Text</a></td>
-        <td>&ensp;<a href="#text">9.3. Health</a></td>
+</tr> 
+<tr>
+    <td>&ensp;<a href="#text">9.3. Health</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
 <tr>
@@ -42,6 +44,9 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr>
     <td>&emsp;<a href="#groups">10.7. Groups</a></td>
     <td>&emsp;<a href="#lists">10.8. Lists</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#books">10.9. Books</a></td>
 </tr> 
 </table>
 
@@ -348,6 +353,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Social sciences](#content)
 
+1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2021. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
+    
+    Jason Poulos.
+
 1. **RNN-based counterfactual prediction, with an application to homestead policy and public schooling**, *JRSS-C*, 2021. [paper](http://jasonvpoulos.com/papers/17117351.pdf) [code](https://github.com/jvpoulos/rnns-causal)
     
     Jason Poulos, Shuxi Zeng.
@@ -398,7 +407,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**, *arXIv*, 2022. [paper](https://arxiv.org/abs/2206.15367)
     
-     Jason Poulos, Marcela Horvitz-Lennon, Katya Zelevinsky, Thomas Huijskens, Pooja Tyagi, Jiaju Yan, Jordi Diaz, Tudor Cristea-Platon, Sharon-Lise Normand
+     Jason Poulos, Marcela Horvitz-Lennon, Katya Zelevinsky, Thomas Huijskens, Pooja Tyagi, Jiaju Yan, Jordi Diaz, Tudor Cristea-Platon, Sharon-Lise Normand.
 
 ## [Resources](#content)
 
