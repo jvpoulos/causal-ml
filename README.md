@@ -475,3 +475,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **An index of datasets that can be used for learning causality** [link](https://github.com/rguo12/awesome-causality-data)
 
 1. **Papers about Causal Inference and Language** [link](https://github.com/causaltext/causal-text-papers)
+
+### [Books](#content)
+
+1. **Causal Machine Learning** [link](https://www.manning.com/books/causal-machine-learning)
