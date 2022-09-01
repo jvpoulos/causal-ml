@@ -25,7 +25,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     <td>&ensp;<a href="#text">9.2. Text</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#text">9.3. Health</a></td>
+    <td>&ensp;<a href="#health">9.3. Health</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#resources">10. Resources</a></td></tr> 
     <td>&emsp;<a href="#workshops">10.1. Workshops</a></td>
