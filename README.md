@@ -20,7 +20,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 <tr><td colspan="2"><a href="#causal-recommendation">6. Causal recommendation</a></td></tr>
 <tr><td colspan="2"><a href="#causal-reinforcement-learning">7. Causal reinforcement learning</a></td></tr>
 <tr><td colspan="2"><a href="#causal-reinforcement-learning">8. Feature selection in causal inference</a></td></tr>
-<tr><td colspan="2"><a href="#applications">9. Applications</a></td>
+<tr><td colspan="2"><a href="#applications">9. Applications</a></td></tr>
     <td>&emsp;<a href="#social-sciences">9.1. Social Sciences</a></td>
     <td>&ensp;<a href="#text">9.2. Text</a></td>
 </tr> 
