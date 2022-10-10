@@ -74,9 +74,17 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
     Yi-Fan Zhang, Hanlin Zhang, Zachary C. Lipton, Li Erran Li, Eric P. Xing.
 
+1. **Nonparametric Estimation of Heterogeneous Treatment Effects: From Theory to Learning Algorithms**, *AISTATS*, 2021. [paper](https://proceedings.mlr.press/v130/curth21a.html)
+    
+    Alicia Curth, Mihaela van der Schaar.
+
 1. **Causal Effect Inference for Structured Treatments**, *NeurIPS*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/SIN)
     
     Jean Kaddour, Yuchen Zhu, Qi Liu, Matt J. Kusner, Ricardo Silva.
+
+1. **Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments**, *arXiv*, 2020. [paper](https://arxiv.org/abs/1712.04802)
+
+    Victor Chernozhukov, Mert Demirer, Esther Duflo, Iván Fernández-Val.
 
 1. **Quasi-Oracle Estimation of Heterogeneous Treatment Effects**, *arXiv*, 2019. [paper](https://arxiv.org/abs/1712.04912)
 
@@ -96,7 +104,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning**, *PNAS*, 2019. [paper](https://arxiv.org/abs/1706.03461)
 
-    Miruna Oprescu, Vasilis Syrgkanis, Zhiwei Steven Wu.
+    Sören R. Künzel, Jasjeet S. Sekhon, Peter J. Bickel, Bin Yu.
 
 1. **Machine Learning Analysis of Heterogeneity in the Effect of Student Mindset Interventions**, *Observational Studies*, 2019. [paper](https://arxiv.org/abs/1811.05975)
     
@@ -350,6 +358,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 ## [Applications](#content)
 
 ### [Social sciences](#content)
+
+1. **Double machine learning-based programme evaluation under unconfoundedness**, *The Econometrics Journal*, 2022. [paper](https://doi.org/10.1093/ectj/utac015)
+    
+    Michael C Knaus.
 
 1. **State-Building through Public Land Disposal? An Application of Matrix Completion for Counterfactual Prediction**, *arXiv*, 2021. [paper](https://arxiv.org/abs/1903.08028) [code](https://github.com/jvpoulos/homesteads)
     
