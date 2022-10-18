@@ -243,10 +243,6 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
     
     Max H. Farrell, Tengyuan Liang, Sanjog Misra.
 
-1. **Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions**, *JRSS-B*, 2018. [paper](https://arxiv.org/abs/1604.07125)
-    
-    Susan Athey, Guido W. Imbens, Stefan Wager.
-
 1. **Deep Counterfactual Networks with Propensity-Dropout**, *arXiv*, 2017. [paper](https://arxiv.org/abs/1706.05966)
     
     Ahmed M. Alaa, Michael Weisz, Mihaela van der Schaar.
@@ -415,7 +411,7 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 ### [Health](#content)
 
-1. **Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**, *arXIv*, 2022. [paper](https://arxiv.org/abs/2206.15367)
+1. **Targeted learning in observational studies with multi-level treatments: An evaluation of antipsychotic drug treatment safety for patients with serious mental illnesses**, *arXIv*, 2022. [paper](https://arxiv.org/abs/2206.15367) [code](https://github.com/jvpoulos/multi-tmle)
     
      Jason Poulos, Marcela Horvitz-Lennon, Katya Zelevinsky, Thomas Huijskens, Pooja Tyagi, Jiaju Yan, Jordi Diaz, Tudor Cristea-Platon, Sharon-Lise Normand.
 
