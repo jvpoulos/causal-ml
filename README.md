@@ -53,6 +53,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Causal Machine Learning: A Survey and Open Problems**, 2022. [paper](https://arxiv.org/abs/2206.15475)
 
     Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, Ricardo Silva.
+	
+1. **A Unified Survey of Heterogeneous Treatment Effect Estimation and Uplift Modeling**, *ACM Computing Surveys*, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3466818)
+
+    Weijia Zhang, Jiuyong Li, Lin Liu.
 
 1. **Toward Causal Representation Learning**, *IEEE*, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9363924)
     
@@ -81,6 +85,10 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 1. **Causal Effect Inference for Structured Treatments**, *NeurIPS*, 2021. [paper](https://arxiv.org/abs/2106.01939) [code](https://github.com/JeanKaddour/SIN)
     
     Jean Kaddour, Yuchen Zhu, Qi Liu, Matt J. Kusner, Ricardo Silva.
+	
+1. **Treatment Effect Estimation with Disentangled Latent Factors**, *AAAI*, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17304) [code](https://github.com/WeijiaZhang24/TEDVAE)
+    
+    Weijia Zhang, Lin Liu, Jiuyong Li.
 
 1. **Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments**, *arXiv*, 2020. [paper](https://arxiv.org/abs/1712.04802)
 
